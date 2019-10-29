@@ -5,22 +5,27 @@
     "name": "Покупки",
     "list": [
       {
+        "id": 0,
         "item": "Фрукты",
         "checked": false
       },
       {
+        "id": 1,
         "item": "Овощи",
         "checked": false
       },
       {
+        "id": 2,
         "item": "Камуфляж",
         "checked": true
       },
       {
+        "id": 3,
         "item": "Коточесалка",
         "checked": false
       },
       {
+        "id": 4,
         "item": "20 клоунов",
         "checked": true
       }
@@ -31,18 +36,22 @@
     "name": "Сходить",
     "list": [
       {
+        "id": 0,
         "item": "ЖКХ",
         "checked": false
       },
       {
+        "id": 1,
         "item": "Foo",
         "checked": false
       },
       {
+        "id": 2,
         "item": "Bar",
         "checked": true
       },
       {
+        "id": 3,
         "item": "В бар",
         "checked": false
       }
